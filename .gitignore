@@ -1,0 +1,4 @@
+*.tif
+OCT_Dataset/
+__pycache__/
+.ipynb_checkpoints/
